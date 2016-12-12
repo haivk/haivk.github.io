@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Hank McLaughlin",
+    "label": "Programmer",
+    "picture": "pic.jpg",
+    "email": "hank@haivk.com",
+    "phone": "443-465-0193",
+    "website": "http://hank.io",
+    "summary": "Director of mobile engineering for Mindgrub Technologies. Areas of expertise include native iOS and Android development, as well as web service development in node and Python",
+    "location": {
+      "address": "36 Stillway Ct",
+      "city": "Cockeysville",
+      "region": "Maryland, 21030"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "hankmc",
+        "url": "https://www.linkedin.com/in/hankmc"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Mindgrub Technologies LLC",
+      "position": "Director of Mobile Engineering",
+      "website": "https://mindgrub.com",
+      "startDate": "2016-10-01",
+      "summary": "Manage a team of 7 engineers and 3 interns, as well as architect and implement native mobile and web applications using the latest technology and methodologies",
+      "highlights": [
+        "Architect, build, and ship applications for clients like MD Lottery, Under Armour, Wendy's, and many more.",
+        "Meet with clients to understand product vision and consult on new technology and how to leverage it for success.",
+        "Successfully transitioned the team from a waterfall structure to agile processes with constant feedback and improvement",
+        "Promoted the creation of automation software internally, to create a more efficient, less stressful work environment"
+      ]
+    },
+    {
+      "company": "Mindgrub Technologies LLC",
+      "position": "Senior Software Engineer",
+      "website": "https://mindgrub.com",
+      "startDate": "2013-03-01",
+      "endDate": "2016-10-01",
+      "summary": "Architect and develop software solutions using native mobile and web technologies"
+    },
+    {
+      "company": "Accella LLC",
+      "position": "Mobile Engineer",
+      "website": "https://accella.net",
+      "startDate": "2010-06-01",
+      "endDate": "2013-03-01",
+      "summary": "Architect and develop software solutions using native mobile technologies",
+      "highlights": [
+        "Build, and ship applications for clients like Runners World Magazine, Volvo, The National Archives, and many more.",
+        "Worked on an application that communicates with an aftermarket car ECU over bluetooth to display a virtual configurable gauge cluster"
+
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "iOS Development",
+      "level": "master",
+      "keywords": [
+        "Objective-C",
+        "Swift",
+        "Xcode",
+        "iPhone",
+        "iPad",
+        "Apple Watch",
+        "Apple TV"
+      ]
+    },
+    {
+      "name": "Android Development",
+      "level": "master",
+      "keywords": [
+        "Java",
+        "Android Studio",
+        "Phone",
+        "Tablet",
+        "Android Wear"
+      ]
+    },
+    {
+      "name": "Node Development",
+      "level": "advanced",
+      "keywords": [
+        "npm",
+        "Web Storm",
+        "Promises"
+      ]
+    },
+    {
+      "name": "Python Development",
+      "level": "intermediate",
+      "keywords": [
+        "Flask",
+        "Django",
+        "Sockets"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Code.org",
+      "position": "Instructor",
+      "website": "https://code.org/",
+      "startDate": "2013-02-01",
+      "summary": "Spend a day in a local classroom every year teaching middle and highschool students to code using Scratch, and robotics fro Sphero"
+    },
+    {
+      "organization": "#HackCary",
+      "position": "Instructor",
+      "website": "http://carey.jhu.edu/",
+      "startDate": "2015-12-01",
+      "summary": "Spend a day at Johns Hopkins Carey Business School teaching Baltimore City students to code in javascript"
+    }
+  ]
+}
