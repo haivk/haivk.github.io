@@ -6,7 +6,7 @@
     "email": "hank@haivk.com",
     "phone": "443-465-0193",
     "website": "http://hank.io",
-    "summary": "Director of mobile engineering for Mindgrub Technologies. Areas of expertise include native iOS and Android development, as well as web service development in node and Python",
+    "summary": "Senior software engineer at Stanley Black & Decker R&D team. Areas of expertise include native iOS and Android development, as well as web service development in node and Python",
     "location": {
       "address": "36 Stillway Ct",
       "city": "Cockeysville",
@@ -22,10 +22,25 @@
   },
   "work": [
     {
+      "company": "Stanley Black & Decker",
+      "position": "Senior Software Engineer",
+      "website": "http://www.stanleyblackanddecker.com/",
+      "startDate": "2017-02-01",
+      "summary": "Invent and prototype potential future hardware and software products. As well as present them to upper management",
+      "highlights": [
+        "Design, build, and code a system that bridges Zigbee and Zwave IOT networks",
+        "Build a system that pilots heavy machinery based off of openCV video input",
+        "Design build and ship a system that locates tools indoors, and on job sites",
+        "Various ARKit/Hololens augmented reality demonstrations"
+
+      ]
+    },
+    {
       "company": "Mindgrub Technologies LLC",
       "position": "Director of Mobile Engineering",
       "website": "https://mindgrub.com",
       "startDate": "2016-10-01",
+      "endDate": "2017-02-01",
       "summary": "Manage a team of 7 engineers and 3 interns, as well as architect and implement native mobile and web applications using the latest technology and methodologies",
       "highlights": [
         "Architect, build, and ship applications for clients like MD Lottery, Under Armour, Wendy's, and many more.",
