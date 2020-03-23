@@ -2,15 +2,15 @@
   "basics": {
     "name": "Hank McLaughlin",
     "label": "Programmer",
-    "picture": "pic.jpg",
     "email": "hank@haivk.com",
+    "picture": "pic.jpg",
     "phone": "443-465-0193",
     "website": "http://hank.io",
-    "summary": "Senior software engineer at Stanley Black & Decker R&D team. Areas of expertise include native iOS and Android development, as well as web service development in node and Python",
+    "summary": "Senior Application Engineer at Leafly. Responsible for design, architecture, and maintinance of native mobile android, and iOS applications. As well as mentorship of junior developers",
     "location": {
-      "address": "36 Stillway Ct",
-      "city": "Cockeysville",
-      "region": "Maryland, 21030"
+      "address": "1405 Point St #321",
+      "city": "Baltimore",
+      "region": "Maryland, 21231"
     },
     "profiles": [
       {
@@ -22,17 +22,31 @@
   },
   "work": [
     {
+      "company": "Leafly Holdings LLC",
+      "position": "Senior Application Engineer",
+      "website": "http://leafly.com",
+      "startDate": "2018-05-01",
+      "endDate": "2020-03-23",
+      "summary": "Architect, build, and maintain the Leafly Android and iOS apps. Adding new features and capabilities to peoples shopping experience. As well as mentoring junior engineers",
+      "highlights": [
+        "Totally re-architect the android app and rewrite the app in flight over the course of a year (project Theseus)",
+        "Design, build, and code a system that allows for easy re-ordering of product from dispensaries",
+        "Build a system that acts as a kiosk for customers within dispensaries",
+        "Architected a system that indexes strains locally on devices so that those results can appear in native global search systems (plus siri and google assisitant)"
+      ]
+    },
+    {
       "company": "Stanley Black & Decker",
       "position": "Senior Software Engineer",
       "website": "http://www.stanleyblackanddecker.com/",
       "startDate": "2017-02-01",
+      "endDate": "2018-05-01",
       "summary": "Invent and prototype potential future hardware and software products. As well as present them to upper management",
       "highlights": [
         "Design, build, and code a system that bridges Zigbee and Zwave IOT networks",
         "Build a system that pilots heavy machinery based off of openCV video input",
         "Design build and ship a system that locates tools indoors, and on job sites",
         "Various ARKit/Hololens augmented reality demonstrations"
-
       ]
     },
     {
@@ -54,29 +68,21 @@
       "position": "Senior Software Engineer",
       "website": "https://mindgrub.com",
       "startDate": "2014-05-01",
-      "endDate": "2016-10-01",
-      "summary": "Architect and develop software solutions using native mobile and web technologies"
+      "endDate": "2016-10-01"
     },
     {
       "company": "Mindgrub Technologies LLC",
       "position": "Software Engineer",
       "website": "https://mindgrub.com",
       "startDate": "2013-03-01",
-      "endDate": "2014-05-01",
-      "summary": "Develop software solutions using native mobile and web technologies"
+      "endDate": "2014-05-01"
     },
     {
       "company": "Accella LLC",
       "position": "Mobile Engineer",
       "website": "https://accella.net",
       "startDate": "2010-06-01",
-      "endDate": "2013-03-01",
-      "summary": "Architect and develop software solutions using native mobile technologies",
-      "highlights": [
-        "Build, and ship applications for clients like Runners World Magazine, Volvo, The National Archives, and many more.",
-        "Worked on an application that communicates with an aftermarket car ECU over bluetooth to display a virtual configurable gauge cluster"
-
-      ]
+      "endDate": "2013-03-01"
     }
   ],
   "skills": [
@@ -84,8 +90,8 @@
       "name": "iOS Development",
       "level": "master",
       "keywords": [
-        "Objective-C",
         "Swift",
+        "Objective-C",
         "Xcode",
         "iPhone",
         "iPad",
@@ -97,6 +103,8 @@
       "name": "Android Development",
       "level": "master",
       "keywords": [
+        "Kotlin",
+        "RxKotlin",
         "Java",
         "Android Studio",
         "Phone",
@@ -132,11 +140,11 @@
       "summary": "Spend a day in a local classroom every year teaching middle and highschool students to code using Scratch, and robotics fro Sphero"
     },
     {
-      "organization": "#HackCary",
-      "position": "Instructor",
-      "website": "http://carey.jhu.edu/",
-      "startDate": "2015-12-01",
-      "summary": "Spend a day at Johns Hopkins Carey Business School teaching Baltimore City students to code in javascript"
+      "organization": "Towson University",
+      "position": "Instructor/Speaker",
+      "website": "https://www.towson.edu/",
+      "startDate": "2015-01-01",
+      "summary": "Provide career advice and mentorship to Towson University students at a few events evry year, ranging from coding tutorials to career workshops"
     }
   ]
 }
