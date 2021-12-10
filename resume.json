@@ -6,7 +6,7 @@
     "picture": "pic.jpg",
     "phone": "443-465-0193",
     "website": "http://hank.io",
-    "summary": "Senior Application Engineer at Leafly. Responsible for design, architecture, and maintinance of native mobile android, and iOS applications. As well as mentorship of junior developers",
+    "summary": "Senior Principal Mobile Engineer at Mindgrub. Responsible for design, architecture, and maintenance of native mobile android, and iOS applications. As well as mentorship and support of junior developers",
     "location": {
       "address": "1405 Point St #321",
       "city": "Baltimore",
@@ -22,6 +22,20 @@
   },
   "work": [
     {
+      "company": "Mindgrub Technologies LLC",
+      "position": "Senior Principal Mobile Engineer",
+      "website": "https://mindgrub.com",
+      "startDate": "2020-03-20",
+      "summary": "Developing software for iOS and Android, as well as functioning as a technical lead, making architecture decisions at the early stages of projects, and reviewing code and providing support as projects continue.",
+      "highlights": [
+        "Architect, build, and ship applications for clients like Exelon, MD Lottery, Idaho Power, and many more.",
+        "Meet with clients to understand product vision and consult on new technology and how to leverage it for success.",
+        "Provide support for devs working on my project, helping with blockers, or reviewing code",
+        "Mentoring junior devs on best practices, and new technology"
+
+      ]
+    },
+    {
       "company": "Leafly Holdings LLC",
       "position": "Senior Application Engineer",
       "website": "http://leafly.com",
@@ -32,7 +46,7 @@
         "Totally re-architect the android app and rewrite the app in flight over the course of a year (project Theseus)",
         "Design, build, and code a system that allows for easy re-ordering of product from dispensaries",
         "Build a system that acts as a kiosk for customers within dispensaries",
-        "Architected a system that indexes strains locally on devices so that those results can appear in native global search systems (plus siri and google assisitant)"
+        "Architected a system that indexes strains locally on devices so that those results can appear in native global search systems (plus Siri and google assistant)"
       ]
     },
     {
@@ -144,7 +158,7 @@
       "position": "Instructor/Speaker",
       "website": "https://www.towson.edu/",
       "startDate": "2015-01-01",
-      "summary": "Provide career advice and mentorship to Towson University students at a few events evry year, ranging from coding tutorials to career workshops"
+      "summary": "Provide career advice and mentorship to Towson University students at a few events every year, ranging from coding tutorials to career workshops"
     }
   ]
 }
